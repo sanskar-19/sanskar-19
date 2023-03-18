@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on building the world's most powerful 3D model development dashboard<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Python, Fast API<br>💬 Ask me about ReactJS, NextJS<br>⚡ Fun fact : Worked from the oldest of the old PHP to the newest. Worked with CMS systems like WordPress to working with pure code with Next.js. You get all that in a single package.
+🔭 I’m currently working on building the world's most powerful 3D model development dashboard<br>🌱 I’m currently learning Python, Fast API<br>💬 Ask me about ReactJS, NextJS<br>⚡ Fun fact : Worked from the oldest of the old PHP to the newest. Worked with CMS systems like WordPress to working with pure code with Next.js. You get all that in a single package.
 
 
 ## 🌐 Socials:
