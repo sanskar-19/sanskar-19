@@ -1,12 +1,9 @@
-<h1 align="center">Hi 👋, I'm Sanskar</h1>
-<h3 align="center">Your ready to go Software Developer</h3>
+<h1 align="left">Hi 👋, I'm Sanskar</h1>
+<h3 align="left">Your ready to go Software Developer</h3>
 
 - 🌱 I’m currently learning **Python, FastAPI**
-
 - 💬 Ask me about **React.js, Next.js**
-
 - 📫 How to reach me **sanskar.agrawal.cse@gmail.com**
-
 - 📄 Know about my experiences [bit.ly/resume-sanskar-agrawal](bit.ly/resume-sanskar-agrawal)
 
 <h3 align="left">Connect with me:</h3>
