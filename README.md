@@ -1,12 +1,12 @@
 
-### <div align="left" style="font-size:2rem;">👋 Hey, I'm Sanskar, your ready to go Software Developer🚀</div>  
+### <div align="left" style="font-size:2rem;">Hey, I'm Sanskar, your ready to go Software Developer🚀</div>  
 
 ⚡ Building the world's most powerful dashboard for 3D Modelling and Avatar generation</br>
 🌱 I’m currently learning Python, FastAPI<br/>
 💬 Ask me about React.js, Next.js<br/>
 📄 Know about my experiences <a href="https://bit.ly/resume-sanskar-agrawal">bit.ly/resume-sanskar-agrawal</a><br/>
 📫 How to reach me? Drop an email to sanskar.agrawal.cse@gmail.com<br/>
-  
+<!--   
 ## <div align="left" style="font-size:2rem;">💻 Tools & Technologies  </div> 
 <table><tr><td valign="top" width="100%">
 
@@ -47,5 +47,3 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
    -->
-
-<br/>  
