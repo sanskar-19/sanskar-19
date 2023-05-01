@@ -4,7 +4,7 @@
 ⚡ Building the world's most powerful dashboard for 3D Modelling and Avatar generation</br>
 🌱 I’m currently learning Python, FastAPI<br/>
 💬 Ask me about React.js, Next.js<br/>
-📄 Know about my experiences <a href="https://bit.ly/resume-sanskar-agrawal">bit.ly/resume-sanskar-agrawal</a><br/>
+📄 Know about my experiences <a href="https://bit.ly/sanskar-agrawal-resume">bit.ly/resume-sanskar-agrawal</a><br/>
 📫 How to reach me? Drop an email to sanskar.agrawal.cse@gmail.com<br/>
 <!--   
 ## <div align="left" style="font-size:2rem;">💻 Tools & Technologies  </div> 
