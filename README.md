@@ -6,7 +6,7 @@
 💬 Ask me about Next.js<br/>
 📄 Know about my experiences <a href="https://drive.google.com/file/d/1fQ2yBrZexZi8oxaxlRtnMPke2sgwQ4yN/view?usp=sharing">Resume-SanskarAgrawal</a><br/>
 📫 How to reach me? Drop an email to sanskar.agrawal.cse@gmail.com<br/>
-<!--   
+
 ## <div align="left" style="font-size:2rem;">💻 Tools & Technologies  </div> 
 <table><tr><td valign="top" width="100%">
 
@@ -46,4 +46,4 @@
 <a href="https://instagram.com/sanskar.03" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-   -->
+
