@@ -1,7 +1,7 @@
 
 ### <div align="left" style="font-size:2rem;">Hey, I'm Sanskar, your ready to go Software Developer🚀</div>  
 
-⚡ Building the world's most powerful dashboard for 3D Modelling and Avatar generation</br>
+⚡ Building the world's most powerful dashboard for 3D Modelling and Avatar generation with the aid of Generative AI</br>
 🌱 I’m currently learning Springboot, FastAPI<br/>
 💬 Ask me about Next.js<br/>
 📄 Know about my experiences <a href="https://drive.google.com/file/d/1DOvCTxi6ynA28Ilnggb4B5kOyn2kzv1_/view?usp=sharing">Resume-SanskarAgrawal</a><br/>
