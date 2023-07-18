@@ -2,7 +2,7 @@
 ### <div align="left" style="font-size:2rem;">Hey, I'm Sanskar, your ready to go Software Developer🚀</div>  
 
 ⚡ Building the world's most powerful dashboard for 3D Modelling and Avatar generation with the aid of Generative AI</br>
-🌱 I’m currently learning Springboot, FastAPI<br/>
+🌱 Buzzing out with javascript & python<br/>
 💬 Ask me about Next.js<br/>
 📄 Know about my experiences <a href="https://drive.google.com/file/d/1Fgos-Y5n7lkARJSQuOL4Wqc7ARWgKwZW/view?usp=sharing">Resume-SanskarAgrawal</a><br/>
 📫 How to reach me? Drop an email to sanskar.agrawal.cse@gmail.com<br/>
