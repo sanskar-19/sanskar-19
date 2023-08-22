@@ -4,7 +4,7 @@
 ⚡ Building the world's most powerful dashboard for 3D Modelling and Avatar generation with the aid of Generative AI</br>
 🌱 Buzzing out with Javascript & Python<br/>
 💬 Ask me about Next.js<br/>
-📄 Know about my experiences <a href="https://drive.google.com/file/d/1Fgos-Y5n7lkARJSQuOL4Wqc7ARWgKwZW/view?usp=sharing">Resume-SanskarAgrawal</a><br/>
+📄 Know about my experiences <a href="https://drive.google.com/file/d/1Fgos-Y5n7lkARJSQuOL4Wqc7ARWgKwZW/">Resume-SanskarAgrawal</a><br/>
 📫 How to reach me? Drop an email to sanskar.agrawal.cse@gmail.com<br/>
 🌐  For any more information please visit : <a href="https://sanskaragrawal.me">sanskaragrawal.me</a>
 
