@@ -1,12 +1,11 @@
 
-### <div align="left" style="font-size:2rem;">Hey, I'm Sanskar, your ready to go Software Developer🚀</div>  
+### <div align="left" style="font-size:2rem;">Hey, I'm Sanskar, your ready to go Software Engineer 🚀</div>  
 
-⚡ Building the world's most powerful dashboard for 3D Modelling and Avatar generation with the aid of Generative AI</br>
-🌱 Buzzing out with Javascript & Python<br/>
+⚡ Building something something to do something so it may help someone to solve something</br>
+🌱 Buzzing out with Typescript & Python<br/>
 💬 Ask me about Next.js<br/>
-📄 Know about my experiences <a href="https://drive.google.com/file/d/1j3_2bYwR_GZicioW-HHybpnUmEjy2nqc/view?usp=sharing">Resume-SanskarAgrawal</a><br/>
+📄 Know about my experiences <a href="https://www.linkedin.com/in/sanskarag">Resume-SanskarAgrawal</a><br/>
 📫 How to reach me? Drop an email to sanskar.agrawal.cse@gmail.com<br/>
-🌐  For any more information please visit : <a href="https://sanskaragrawal.me">sanskaragrawal.me</a>
 
 ## <div align="left" style="font-size:2rem;">💻 Tools & Technologies  </div> 
 <table><tr><td valign="top" width="100%">
