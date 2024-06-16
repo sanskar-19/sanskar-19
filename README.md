@@ -4,7 +4,7 @@
 ⚡ Building something something to do something so it may help someone to solve something</br>
 🌱 Buzzing out with Typescript & Python<br/>
 💬 Ask me about Next.js<br/>
-📄 Know about my experiences <a href="https://www.linkedin.com/in/sanskarag">Resume-SanskarAgrawal</a><br/>
+📄 Wanna know about my fun <a href="https://www.linkedin.com/in/sanskarag">experiences</a>?<br/>
 📫 How to reach me? Drop an email to sanskar.agrawal.cse@gmail.com<br/>
 
 ## <div align="left" style="font-size:2rem;">💻 Tools & Technologies  </div> 
