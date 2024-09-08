@@ -1,6 +1,3 @@
-
-### <div align="left" style="font-size:2rem;">Hey, I'm Sanskar, your ready to go Software Engineer 🚀</div>  
-
 ⚡ Building something to do something so it may help someone to solve something</br>
 🌱 Buzzing out with Typescript & Postgres<br/>
 📄 Wanna know about my <a href="https://www.linkedin.com/in/sanskarag">experiences</a><br/>
