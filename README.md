@@ -1,6 +1,6 @@
 ⚡ Building something to do something so it may help someone to solve something</br>
 🌱 Buzzing out with something<br/>
-📄 Wanna know about my <a href="https://www.linkedin.com/in/sanskarag">experiences</a><br/>
+📄 Know more about <a href="https://www.linkedin.com/in/sanskarag">me</a><br/>
 📫 How to reach me? Drop an email to sanskar.agrawal.cse@gmail.com<br/>
 
 ## <div align="left" style="font-size:2rem;">💻 Tools & Technologies  </div> 
