@@ -1,4 +1,4 @@
-⚡ Building something to do something so it may help someone to solve something</br>
+⚡ Building `something` to do `something` so it may help `someone` to solve `something`!</br>
 🌱 Buzzing out with something<br/>
 📄 Know more about <a href="https://www.linkedin.com/in/sanskarag">me</a>!<br/>
 📫 How to reach me? Drop an email to sanskar.agrawal.cse@gmail.com<br/>
