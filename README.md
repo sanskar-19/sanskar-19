@@ -3,7 +3,7 @@
 📄 Know more about my <a href="https://www.linkedin.com/in/sanskarag">experiences</a>.<br/>
 📫 How to reach me? Drop an email at sanskar.agrawal.cse@gmail.com!<br/>
 
-## <div align="left" style="font-size:2rem;">💻 Tools & Technologies  </div> 
+## <div align="left" style="font-size:2rem;">💻 Stack  </div> 
 <table><tr><td valign="top" width="100%">
 
 <div align="left">  
