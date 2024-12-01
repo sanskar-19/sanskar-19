@@ -1,7 +1,7 @@
 ⚡ Building `something` for helping `someone` to solve `something`!</br>
 🌱 Buzzing out with `TS, Postgres`.<br/>
 📄 Know more about my <a href="https://www.linkedin.com/in/sanskarag">experiences</a>.<br/>
-📫 How to reach me? Drop an email at sanskar.agrawal.cse@gmail.com!
+📫 How to reach me? Drop an email at sanskar.agrawal.cse@gmail.com
 <br/>
 
 ## <div align="left" style="font-size:2rem;">💻 Stack  </div> 
