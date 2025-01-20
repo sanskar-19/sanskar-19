@@ -1,6 +1,5 @@
 🌱 Buzzing out with `TS, Postgres`!<br/>
 
-## <div align="left" style="font-size:2rem;">💻 Stack  </div> 
 <table><tr><td valign="top" width="100%">
 
 <div align="left">  
