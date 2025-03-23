@@ -1,1 +1,1 @@
-🌱 Buzzing out with `Typescript` and `Postgres`!<br/>
+🧑🏻‍💻 Buzzing out with `Typescript` and `Postgres`!<br/>
