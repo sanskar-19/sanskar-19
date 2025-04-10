@@ -1,1 +1,1 @@
-🧑🏻‍💻 Grinding out with `Typescript` and `Postgres`!<br/>
+🧑🏻‍💻 Grinding out with `TS` and `Postgres`!<br/>
