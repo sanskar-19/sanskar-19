@@ -1,1 +1,1 @@
-🧑🏻‍💻 In a relationship with `TS` and `Postgres`!<br/>
+🧑🏻‍💻 In a relation with `TS` and `Postgres`!<br/>
