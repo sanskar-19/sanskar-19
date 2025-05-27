@@ -1,1 +1,1 @@
-🧑🏻‍💻 In a romantic relationship with `Typescript` and `Postgres`!
+🧑🏻‍💻 In a relationship with `Typescript` and `Postgres`!
