@@ -1,1 +1,1 @@
-📧 Reach out to me at `sanskar.ag.work@gmail.com`
+📧 Reach out to me at `sanskar.agrawal.cse@gmail.com`
